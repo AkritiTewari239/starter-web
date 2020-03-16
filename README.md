@@ -18,7 +18,7 @@ Not yet comitted
 
 ## How to contribute
 
-not yet added
+some changes
 
 ## CopyRigthNotice
 
