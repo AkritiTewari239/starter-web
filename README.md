@@ -14,8 +14,8 @@ Not yet pushed
 
 ## Deployment
 
-Sample website with plenty of files for demos
+Not yet comitted
 
 ## How to contribute
 
-Sample website with plenty of files for demos
+not yet added
