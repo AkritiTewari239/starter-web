@@ -9,8 +9,7 @@ Sample website with plenty of files for demos
 
 
 ## Purpose
-
-Not yet pushed
+some urgent changes
 
 
 ## Deployment
